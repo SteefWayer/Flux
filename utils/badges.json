@@ -1,0 +1,102 @@
+[
+    {
+        "id": "B1",
+        "emoji": "💰",
+        "name": "First to 1 Million",
+        "description": "Awarded to the first user to achieve a balance of 1 million.",
+        "color": "#FFD700"
+    },
+    {
+        "id": "B2",
+        "emoji": "💸",
+        "name": "First to 10 Million",
+        "description": "Awarded to the first user to achieve a balance of 10 million."
+    },
+    {
+        "id": "B3",
+        "emoji": "💎",
+        "name": "First to 100 Million",
+        "description": "Awarded to the first user to achieve a balance of 100 million."
+    },
+    {
+        "id": "B4",
+        "emoji": "🏦",
+        "name": "First to 1 Billion",
+        "description": "Awarded to the first user to achieve a balance of 1 billion.",
+        "color": "#FF4500"
+    },
+    {
+        "id": "B5",
+        "emoji": "🆕",
+        "name": "User Since 2024",
+        "description": "Awarded to users who joined the bot in the year 2024."
+    },
+    {
+        "id": "B6",
+        "emoji": "🆕",
+        "name": "User Since 2025",
+        "description": "Awarded to users who joined the bot in the year 2025."
+    },
+    {
+        "id": "B7",
+        "emoji": "🆕",
+        "name": "User Since 2026",
+        "description": "Awarded to users who joined the bot in the year 2026."
+    },
+    {
+        "id": "B8",
+        "emoji": "👑",
+        "name": "Bot Owner",
+        "description": "Awarded to the bot owner.",
+        "color": "#FF0000"
+    },
+    {
+        "id": "B9",
+        "emoji": "🔍",
+        "name": "Tester",
+        "description": "Awarded to users who help test the bot."
+    },
+    {
+        "id": "B10",
+        "emoji": "💻",
+        "name": "Developer",
+        "description": "Awarded to the developers of the bot.",
+        "color": "#FF0000"
+    },
+    {
+        "id": "B11",
+        "emoji": "⚔️",
+        "name": "Grinder",
+        "description": "Awarded to users who actively grind for in-game resources."
+    },
+    {
+        "id": "B12",
+        "emoji": "🏆",
+        "name": "Achievement Hunter",
+        "description": "Awarded for completing 10 achievements."
+    },
+    {
+        "id": "B13",
+        "emoji": "🎖️",
+        "name": "Top Earner",
+        "description": "Awarded to the top 10 users with the highest balance."
+    },
+    {
+        "id": "B14",
+        "emoji": "🏅",
+        "name": "Daily Active",
+        "description": "Awarded for logging in every day for a week."
+    },
+    {
+        "id": "B15",
+        "emoji": "🌟",
+        "name": "Lucky Player",
+        "description": "Awarded for winning a rare event."
+    },
+    {
+        "id": "B16",
+        "emoji": "🤖",
+        "name": "Bot Badge",
+        "description": "Awarded to the bot for its contribution."
+    }
+]

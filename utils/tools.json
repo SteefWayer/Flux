@@ -1,0 +1,154 @@
+{
+    "usage": [
+        {
+            "toolm_id": 100100,
+            "toolm_name": "Wild",
+            "tools": [
+                {
+                    "tool_ID": 100101,
+                    "tool_name": "Rifle",
+                    "tool_price": "50,000 ⏣",
+                    "tool_emoji": "🔫"
+                }
+            ]
+        },
+        {
+            "toolm_id": 100200,
+            "toolm_name": "Crafting",
+            "tools": [
+                {
+                    "tool_ID": 100201,
+                    "tool_name": "Hammer",
+                    "tool_price": "12,000 ⏣",
+                    "tool_emoji": "🔨"
+                },
+                {
+                    "tool_ID": 100202,
+                    "tool_name": "Screwdriver",
+                    "tool_price": "8,000 ⏣",
+                    "tool_emoji": "🔧"
+                },
+                {
+                    "tool_ID": 100203,
+                    "tool_name": "Wrench",
+                    "tool_price": "15,000 ⏣",
+                    "tool_emoji": "🔩"
+                },
+                {
+                    "tool_ID": 100204,
+                    "tool_name": "Pliers",
+                    "tool_price": "9,000 ⏣",
+                    "tool_emoji": "🛠️"
+                }
+            ]
+        },
+        {
+            "toolm_id": 100400,
+            "toolm_name": "Medical",
+            "tools": [
+                {
+                    "tool_ID": 100401,
+                    "tool_name": "First Aid Kit",
+                    "tool_price": "25,000 ⏣",
+                    "tool_emoji": "🩹"
+                },
+                {
+                    "tool_ID": 100402,
+                    "tool_name": "Stethoscope",
+                    "tool_price": "15,000 ⏣",
+                    "tool_emoji": "🩺"
+                },
+                {
+                    "tool_ID": 100403,
+                    "tool_name": "Thermometer",
+                    "tool_price": "5,000 ⏣",
+                    "tool_emoji": "🌡️"
+                },
+                {
+                    "tool_ID": 100404,
+                    "tool_name": "Medical Mask",
+                    "tool_price": "2,000 ⏣",
+                    "tool_emoji": "😷"
+                }
+            ]
+        },
+        {
+            "toolm_id": 100500,
+            "toolm_name": "Construction",
+            "tools": [
+                {
+                    "tool_ID": 100501,
+                    "tool_name": "Drill",
+                    "tool_price": "40,000 ⏣",
+                    "tool_emoji": "🔩"
+                },
+                {
+                    "tool_ID": 100502,
+                    "tool_name": "Excavator",
+                    "tool_price": "120,000 ⏣",
+                    "tool_emoji": "🚜"
+                },
+                {
+                    "tool_ID": 100503,
+                    "tool_name": "Bulldozer",
+                    "tool_price": "150,000 ⏣",
+                    "tool_emoji": "🚧"
+                },
+                {
+                    "tool_ID": 100506,
+                    "tool_name": "Cement Truck",
+                    "tool_price": "150,000 ⏣",
+                    "tool_emoji": "🚛"
+                },
+                {
+                    "tool_ID": 100507,
+                    "tool_name": "Forklift",
+                    "tool_price": "70,000 ⏣",
+                    "tool_emoji": "🚜"
+                }
+            ]
+        },
+        {
+            "toolm_id": 100600,
+            "toolm_name": "Workshop",
+            "tools": [
+                {
+                    "tool_ID": 100601,
+                    "tool_name": "CNC Machine",
+                    "tool_price": "80,000 ⏣",
+                    "tool_emoji": "🛠️"
+                },
+                {
+                    "tool_ID": 100602,
+                    "tool_name": "Lathe",
+                    "tool_price": "65,000 ⏣",
+                    "tool_emoji": "🔩"
+                },
+                {
+                    "tool_ID": 100603,
+                    "tool_name": "Milling Machine",
+                    "tool_price": "90,000 ⏣",
+                    "tool_emoji": "⚙️"
+                },
+                {
+                    "tool_ID": 100604,
+                    "tool_name": "Hydraulic Lift",
+                    "tool_price": "70,000 ⏣",
+                    "tool_emoji": "🚧"
+                },
+                {
+                    "tool_ID": 100605,
+                    "tool_name": "3D Printer",
+                    "tool_price": "50,000 ⏣",
+                    "tool_emoji": "🖨️"
+                },
+                {
+                    "tool_ID": 100999,
+                    "tool_name": "Repair Manuals",
+                    "tool_price": "5,000 ⏣",
+                    "tool_emoji": "📚"
+                }
+            ]
+        }
+    ]
+}

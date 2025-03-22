@@ -1,0 +1,154 @@
+{
+    "home": {
+        "title": "🏠 Home Page",
+        "description": "Welcome to the help menu! Use the dropdown to navigate to different sections.",
+        "fields": [
+            { "name": "💰 Economy Commands", "value": "Learn about economy-related commands.", "inline": false },
+            { "name": "🔧 Economy Server Shop", "value": "Learn about commands for administrators.", "inline": false },
+            { "name": "😂 Fun Commands", "value": "Learn about fun meme commands.", "inline": false },
+            { "name": "👥 Profile Commands", "value": "Learn about profile related commands.", "inline": false },
+            { "name": "📈 Levels", "value": "Manage and check user levels within your server.", "inline": false },
+            { "name": "⚔️ Moderation", "value": "Explore commands for moderation.", "inline": false },
+            { "name": "🛒 Shop", "value": "Explore the shop commands.", "inline": false },
+            { "name": "⚙️ Utility Commands", "value": "Learn about general utility commands.", "inline": false },
+            { "name": "🔧 Setup Commands", "value": "Learn how to set up various features.", "inline": false },
+            { "name": "🆕 New Features", "value": "Explore the latest additions to the bot.", "inline": false }
+        ],
+        "color": "#ffffff"
+    },
+    "economy": {
+        "title": "💰 Economy Commands",
+        "description": "Commands related to the economy system.",
+        "fields": [
+            { "name": "💵 **!balance**", "value": "Check your current balance.\nUsage: `!bal [user]`.", "inline": false },
+            { "name": "🃏 **!blackjack**", "value": "Play a game of blackjack.\nUsage: `!bj <amount/all>`.", "inline": false },
+            { "name": "💰 **!beg**", "value": "Beg for money and items. Has a cooldown.\nUsage: `!beg`.", "inline": false },
+            { "name": "🔫 **!crime**", "value": "Engage in criminal activities.\nUsage: `!crime`.", "inline": false },
+            { "name": "🗓️ **!daily**", "value": "Claim your daily reward.\nUsage: `!daily`.", "inline": false },
+            { "name": "💰 **!deposit**", "value": "Deposit money into your bank.\nUsage: `!dep <amount/all>`.", "inline": false },
+            { "name": "🎁 **!gift**", "value": "Gift other players items from your inventory.\nUsage: `!gift @username item_name [amount]`.", "inline": false },
+            { "name": "🏇 **!horserace**", "value": "Start a horse race event.\nUsage: `!hr <amount/all>`.", "inline": false },
+            { "name": "🐾 **!hunt**", "value": "Go hunting for animals. Requires a rifle from the shop.\nUsage: `!hunt`.", "inline": false },
+            { "name": "📦 **!inventory**", "value": "View your current inventory.\nUsage: `!inv [user]`.", "inline": false },
+            { "name": "🏆 **!leaderboard**", "value": "View the leaderboard for top earners.\nUsage: `!leaderboard`.", "inline": false },
+            { "name": "💸 **!pay**", "value": "Pay another user a specified amount of cash.\nUsage: `!pay @username <amount>`.", "inline": false },
+            { "name": "🎰 **!slots**", "value": "Play a slot machine game.\nUsage: `!slots <amount/all>`.", "inline": false },
+            { "name": "💸 **!withdraw**", "value": "Withdraw money from your bank.\nUsage: `!with <amount/all>`.", "inline": false },
+            { "name": "⚒️ **!work**", "value": "Earn money by working. Has a cooldown.\nUsage: `!work`.", "inline": false }
+        ],
+        "color": "#27ae60"
+    },
+    "fun": {
+        "title": "😂 Fun Commands",
+        "description": "Commands for entertainment and fun interactions.",
+        "fields": [
+            { "name": "📺 **!bounce**", "value": "Attach an image to make it bounce like the DVD screen.", "inline": false },
+            { "name": "🏳️‍🌈 **!gay**", "value": "Puts the gay flag over a targeted user.\nUsage: `!gay <@mention>`.", "inline": false },
+            { "name": "😂 **!meme**", "value": "Get a fun or dark meme.\nUsage: `!meme`.", "inline": false },
+            { "name": "🔍 **!enhance**", "value": "Attach an image to improve its quality.\nUsage: `!enhance`. Rate limited to 5 per day globally.", "inline": false },
+            { "name": "🖼️ **!enlarge**", "value": "Make the emoji a bigger picture or GIF.\nUsage: `!enlarge <:emoji:>`.", "inline": false },
+            { "name": "🔥 **!roast**", "value": "Send a roast and let them fry.\nUsage: `!roast`.", "inline": false },
+            { "name": "🎱 **!8ball**", "value": "Get a mystical answer.\nUsage: `!8ball <message>`.", "inline": false },
+            { "name": "❤️ **!kiss !kill !hug !slap !pat !blush**", "value": "Use these actions on any user or yourself.\nUsage: `!kiss @user`.", "inline": false },
+            { "name": "🌐 **!ip <IP>**", "value": "Looks up the GEO location and more from the provided IP.", "inline": false }
+        ],
+        "color": "#9b59b6"
+    },
+    "profile": {
+        "title": "👥 Profile Commands",
+        "description": "Profile related commands.",
+        "fields": [
+            { "name": "👥 **!profile**", "value": "View and customize your profile.\nConfigurable settings:\n`!pnick <nickname>` to change your nickname.\n`!pdesc <description>` to change your description.", "inline": false },
+            { "name": "🏅 **!badges**", "value": "View the badges from your profile.\nUsage: `!badges`.", "inline": false },
+            { "name": "👤 **!avatar**", "value": "Show the avatar of yourself or the given user.\nUsage: `!avatar [@user]`.", "inline": false }
+        ],
+        "color": "#9b59b6"
+    },
+    "setup": {
+        "title": "🔧 Setup Commands",
+        "description": "Commands that require admin or owner permissions.",
+        "fields": [
+            { "name": "🛠️ **!serveradmin**", "value": "Manage server administrators.\nUsage: `!sadmin` `add <@user>` `remove <@user>` `list`.", "inline": false },
+            { "name": "🛠️ **!servermod**", "value": "Manage server moderators.\nUsage: `!smod` `add <@user>` `remove <@user>` `list`", "inline": false },
+            { "name": "🔧 **!logging**", "value": "Mention a channel to enable server logging.\nUsage: `!logging` `disable` `<#channel>`.", "inline": false },
+            { "name": "🔧 **!setprefix**", "value": "Change the bot prefix for your server.\nUsage: `!setprefix <prefix>.`", "inline": false }
+        ],
+        "color": "#e74c3c"
+    },
+    "moderation": {
+            "title": "⚔️ Moderation Commands",
+            "description": "Commands for moderating the server.",
+            "fields": [
+                { "name": "🔧 **!warn**", "value": "Warn a user.\nUsage: `!warn <user> [reason]`.", "inline": false },
+                { "name": "🗒️ **!clearwarnings**", "value": "Remove all warnings from a given user.\nUsage: `!clearwarnings <usermention/id>`.", "inline": false },
+                { "name": "🗑️ **!removewarning**", "value": "Remove a specific warning from a user.\nUsage: `!removewarning <usermention/id> <warningID>`.", "inline": false },
+                { "name": "🔇 **!mute**", "value": "Mute a user for a specified duration or indefinitely.\nUsage: `!mute <usermention/id> [duration]`", "inline": false },
+                { "name": "🔊 **!unmute**", "value": "Unmute a previously muted user.\nUsage: `!unmute <usermention/id>`", "inline": false },
+                { "name": "🔨 **!kick**", "value": "Kick a user from the server.\nUsage: `!kick <user> [reason]`.", "inline": false },
+                { "name": "🚫 **!ban**", "value": "Ban a user from the server.\nUsage: `!ban <user> [reason]`.", "inline": false },
+                { "name": "🎭 **!addrole**", "value": "Add a role to a user. (Manage Roles permission required.)", "inline": false },
+                { "name": "🔨 **!removerole**", "value": "Remove a specific role from all members. (Manage Roles permission required.)", "inline": false }
+            ],
+            "color": "#e67e22"
+        },
+        "servershop": {
+            "title": "💰 Economy Server Shop Commands",
+            "description": "Commands for managing and interacting with custom shops in your guild.",
+            "fields": [
+                { "name": "🔧 **!addshopadmin**", "value": "Add a user as an admin for your shop.\nUsage: `!addshopadmin <roleID>`.", "inline": false },
+                { "name": "🛠️ **!createshop**", "value": "Create a new shop in your guild.\nUsage: `!createshop name/a description/price/emoji`.", "inline": false },
+                { "name": "❌ **!deleteshopadmin**", "value": "Remove a user’s admin privileges for the shop.\nUsage: `!delshopadmin <roleID>`.", "inline": false },
+                { "name": "📦 **!serverinventory**", "value": "View the items in the server’s inventory.\nUsage: `!sinv`.", "inline": false },
+                { "name": "🏪 **!servershop**", "value": "View and manage your server’s shop.\nUsage: `!ss`.", "inline": false },
+                { "name": "🗑️ **!servershopremove**", "value": "Remove an item from the server’s shop.\nUsage: `!ssrem <item name>`.", "inline": false },
+                { "name": "👥 **!shopadmins**", "value": "List all admins for the shop.\n(View the administrators of your shop).", "inline": false }
+            ],
+            "color": "#f39c12"
+        },
+        "shop": {
+            "title": "🛒 Shop Commands",
+            "description": "Commands related to the shop.",
+            "fields": [
+                { "name": "🛒 **!shop**", "value": "View and purchase items from the shop.\nUsage: `!shop`.", "inline": false },
+                { "name": "🛒 **!buy**", "value": "Buy an item from the shop.\nUsage: `!buy <item name>`.", "inline": false }
+            ],
+            "color": "#3498db"
+        },
+        "levels": {
+            "title": "📈 Levels",
+            "description": "Manage and check user levels within your server.",
+            "fields": [
+                { "name": "🎖️ **!rankrole**", "value": "Automatically assign roles to users who reach a certain level.\nUsage: `!rankrole <level> <roleID>`", "inline": false },
+                { "name": "❌ **!delrankrole**", "value": "Remove the level reward role for the given level.\nUsage: `!delrankrole <level>`", "inline": false },
+                { "name": "🏅 **!rankroles**", "value": "See what rewards you will get for certain levels you reach.\nUsage: `!rankroles`", "inline": false },
+                { "name": "📈 **!setxp**", "value": "Set a specific amount of XP for any user in your server.\nUsage: `!setxp <@user> <xp>`", "inline": false },
+                { "name": "🎖️ **!setrank**", "value": "Set a specific rank for a user.\nUsage: `!setrank <@user> <level>`", "inline": false },
+                { "name": "📊 **!resetlevels**", "value": "Removes all XP from all users in your server.\nUsage: `!resetlevels`", "inline": false }
+            ],
+            "color": "#3498db"
+        },
+        "utility": {
+            "title": "⚙️ Utility Commands",
+            "description": "Various utility commands for server management.",
+            "fields": [
+                { "name": "🤖 **!botinfo**", "value": "Shows available information about the bot.", "inline": false },
+                { "name": "📨 **!messages**", "value": "View the total number of messages sent by a user. Usage: `!messages <userID/mention>`.", "inline": false },
+                { "name": "⚙️ **!setup**", "value": "Initialize or configure the bot settings for the server.", "inline": false },
+                { "name": "ℹ️ **!serverinfo**", "value": "Displays information about the current server.\nUsage: `!serverinfo`", "inline": false },
+                { "name": "📌 **!sticky**", "value": "Stick a message to the channel.\nUsage: `!sticky <message>`", "inline": false },
+                { "name": "🛠️ **!roles**", "value": "Display all roles available in the server.\nUsage: `!roles`", "inline": false },
+                { "name": "🗑️ **!removesticky**", "value": "Remove the sticky message from the channel.\nUsage: `!removesticky`", "inline": false },
+                { "name": "🏓 **!ping**", "value": "Check the bot and API latency.\nUsage: `!ping`", "inline": false },
+                { "name": "📊 **!poll**", "value": "Only server moderators and users with manage messages can run this command.\nUsage: `!poll <question>/answer1/answer2`.", "inline": false },
+                { "name": "🔗 **!invite**", "value": "Shows a link to invite the bot.\nUsage: `!invite`.", "inline": false }
+            ],
+            "color": "#2980b9"
+        },
+        "new": {
+            "title": "🆕 New Features",
+            "description": "Explore the latest additions to the bot.",
+            "fields": [
+            ],
+            "color": "#f1c40f"
+        }
+    }

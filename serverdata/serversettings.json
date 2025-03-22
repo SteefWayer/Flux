@@ -1,0 +1,30 @@
+{
+  "1272538741986168893": {
+    "prefix": "!",
+    "shopAdmins": [
+      "1272538742011330609"
+    ],
+    "loggingEnabled": true,
+    "loggingChannelId": "1272538742669840511"
+  },
+  "1276929369545248889": {
+    "prefix": "!",
+    "shopAdmins": [
+      "1278188800975175754"
+    ],
+    "loggingEnabled": true,
+    "loggingChannelId": "1294017983215046750"
+  },
+  "1293699584975175700": {
+    "loggingEnabled": true,
+    "loggingChannelId": "1293699584975175703"
+  },
+  "1297365044593688616": {
+    "loggingEnabled": true,
+    "loggingChannelId": "1297365045079969833"
+  },
+  "1307776826067783700": {
+    "loggingEnabled": true,
+    "loggingChannelId": "1307785736556118048"
+  }
+}

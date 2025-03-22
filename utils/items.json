@@ -1,0 +1,477 @@
+{
+    "usage": [
+        {
+            "itemm_id": 200100,
+            "itemm_name": "Workshop",
+            "items": [
+                {
+                    "item_ID": 200101,
+                    "item_name": "Tool Chest",
+                    "item_price": "30,000 ⏣",
+                    "item_emoji": "🧰"
+                },
+                {
+                    "item_ID": 200102,
+                    "item_name": "Air Compressor",
+                    "item_price": "25,000 ⏣",
+                    "item_emoji": "💨"
+                },
+                {
+                    "item_ID": 200103,
+                    "item_name": "Power Drills",
+                    "item_price": "15,000 ⏣",
+                    "item_emoji": "🛠️"
+                },
+                {
+                    "item_ID": 200104,
+                    "item_name": "Workbench",
+                    "item_price": "20,000 ⏣",
+                    "item_emoji": "🔧"
+                },
+                {
+                    "item_ID": 200105,
+                    "item_name": "Comprehensive Tool Set",
+                    "item_price": "40,000 ⏣",
+                    "item_emoji": "🔨"
+                },
+                {
+                    "item_ID": 200106,
+                    "item_name": "Welding Machine",
+                    "item_price": "60,000 ⏣",
+                    "item_emoji": "⚙️"
+                },
+                {
+                    "item_ID": 200107,
+                    "item_name": "Safety Gear",
+                    "item_price": "10,000 ⏣",
+                    "item_emoji": "🦺"
+                }
+            ]
+        },
+        {
+            "itemm_id": 200200,
+            "itemm_name": "Machinery",
+            "items": [
+                {
+                    "item_ID": 200201,
+                    "item_name": "Press Machine",
+                    "item_price": "100,000 ⏣",
+                    "item_emoji": "🔨"
+                },
+                {
+                    "item_ID": 200202,
+                    "item_name": "Conveyor Belt",
+                    "item_price": "150,000 ⏣",
+                    "item_emoji": "🔗"
+                },
+                {
+                    "item_ID": 200203,
+                    "item_name": "Drill Press",
+                    "item_price": "55,000 ⏣",
+                    "item_emoji": "🛠️"
+                },
+                {
+                    "item_ID": 200204,
+                    "item_name": "Laser Cutter",
+                    "item_price": "120,000 ⏣",
+                    "item_emoji": "💥"
+                },
+                {
+                    "item_ID": 200205,
+                    "item_name": "Bandsaw",
+                    "item_price": "45,000 ⏣",
+                    "item_emoji": "🪚"
+                },
+                {
+                    "item_ID": 200206,
+                    "item_name": "Welding Station",
+                    "item_price": "75,000 ⏣",
+                    "item_emoji": "⚒️"
+                }
+            ]
+        },
+        {
+            "itemm_id": 200300,
+            "itemm_name": "Store Fixtures",
+            "items": [
+                {
+                    "item_ID": 200301,
+                    "item_name": "Store Layout Plan",
+                    "item_price": "10,000 ⏣",
+                    "item_emoji": "📋"
+                },
+                {
+                    "item_ID": 200302,
+                    "item_name": "Display Racks",
+                    "item_price": "20,000 ⏣",
+                    "item_emoji": "🛒"
+                },
+                {
+                    "item_ID": 200303,
+                    "item_name": "Signage",
+                    "item_price": "5,000 ⏣",
+                    "item_emoji": "🪧"
+                },
+                {
+                    "item_ID": 200304,
+                    "item_name": "Product Shelves",
+                    "item_price": "15,000 ⏣",
+                    "item_emoji": "🗄️"
+                },
+                {
+                    "item_ID": 200305,
+                    "item_name": "Checkout Counters",
+                    "item_price": "25,000 ⏣",
+                    "item_emoji": "💳"
+                },
+                {
+                    "item_ID": 200306,
+                    "item_name": "Store Decorations",
+                    "item_price": "8,000 ⏣",
+                    "item_emoji": "🎨"
+                },
+                {
+                    "item_ID": 200307,
+                    "item_name": "Lighting",
+                    "item_price": "12,000 ⏣",
+                    "item_emoji": "💡"
+                },
+                {
+                    "item_ID": 200308,
+                    "item_name": "Inventory Storage Solutions",
+                    "item_price": "18,000 ⏣",
+                    "item_emoji": "📦"
+                },
+                {
+                    "item_ID": 200309,
+                    "item_name": "Window Display Items",
+                    "item_price": "6,000 ⏣",
+                    "item_emoji": "🪟"
+                },
+                {
+                    "item_ID": 200310,
+                    "item_name": "Safety Features",
+                    "item_price": "10,000 ⏣",
+                    "item_emoji": "🚨"
+                }
+            ]
+        }
+    ],
+        "beg_items": [
+            {
+                "category_id": 300100,
+                "category_name": "Furniture",
+                "items": [
+                    {
+                        "item_ID": 300101,
+                        "item_name": "Wooden Chair",
+                        "item_price": "5,000 ⏣",
+                        "item_emoji": "🪑"
+                    },
+                    {
+                        "item_ID": 300102,
+                        "item_name": "Dining Table",
+                        "item_price": "12,000 ⏣",
+                        "item_emoji": "🍽️"
+                    },
+                    {
+                        "item_ID": 300103,
+                        "item_name": "Bookshelf",
+                        "item_price": "8,000 ⏣",
+                        "item_emoji": "📚"
+                    },
+                    {
+                        "item_ID": 300104,
+                        "item_name": "Sofa",
+                        "item_price": "20,000 ⏣",
+                        "item_emoji": "🛋️"
+                    },
+                    {
+                        "item_ID": 300105,
+                        "item_name": "Bed Frame",
+                        "item_price": "15,000 ⏣",
+                        "item_emoji": "🛏️"
+                    },
+                    {
+                        "item_ID": 300106,
+                        "item_name": "Coffee Table",
+                        "item_price": "7,000 ⏣",
+                        "item_emoji": "☕"
+                    },
+                    {
+                        "item_ID": 300107,
+                        "item_name": "Lamp",
+                        "item_price": "3,000 ⏣",
+                        "item_emoji": "💡"
+                    },
+                    {
+                        "item_ID": 300108,
+                        "item_name": "Wardrobe",
+                        "item_price": "10,000 ⏣",
+                        "item_emoji": "👗"
+                    },
+                    {
+                        "item_ID": 300109,
+                        "item_name": "TV Stand",
+                        "item_price": "9,000 ⏣",
+                        "item_emoji": "📺"
+                    },
+                    {
+                        "item_ID": 300110,
+                        "item_name": "Recliner Chair",
+                        "item_price": "18,000 ⏣",
+                        "item_emoji": "🛋️"
+                    }
+                ]
+            },
+            {
+                "category_id": 300200,
+                "category_name": "Everyday Items",
+                "items": [
+                    {
+                        "item_ID": 300201,
+                        "item_name": "Spare Change",
+                        "item_price": "50 ⏣",
+                        "item_emoji": "💰"
+                    },
+                    {
+                        "item_ID": 300202,
+                        "item_name": "Old Jacket",
+                        "item_price": "500 ⏣",
+                        "item_emoji": "🧥"
+                    },
+                    {
+                        "item_ID": 300203,
+                        "item_name": "Used Shoes",
+                        "item_price": "1,000 ⏣",
+                        "item_emoji": "👟"
+                    },
+                    {
+                        "item_ID": 300204,
+                        "item_name": "Umbrella",
+                        "item_price": "2,000 ⏣",
+                        "item_emoji": "🌂"
+                    },
+                    {
+                        "item_ID": 300205,
+                        "item_name": "Scarf",
+                        "item_price": "300 ⏣",
+                        "item_emoji": "🧣"
+                    }
+                ]
+            },
+            {
+                "category_id": 300300,
+                "category_name": "Food",
+                "items": [
+                    {
+                        "item_ID": 300301,
+                        "item_name": "Sandwich",
+                        "item_price": "250 ⏣",
+                        "item_emoji": "🥪"
+                    },
+                    {
+                        "item_ID": 300302,
+                        "item_name": "Cup of Coffee",
+                        "item_price": "150 ⏣",
+                        "item_emoji": "☕"
+                    },
+                    {
+                        "item_ID": 300303,
+                        "item_name": "Apple",
+                        "item_price": "50 ⏣",
+                        "item_emoji": "🍎"
+                    },
+                    {
+                        "item_ID": 300304,
+                        "item_name": "Bottle of Water",
+                        "item_price": "100 ⏣",
+                        "item_emoji": "🚰"
+                    },
+                    {
+                        "item_ID": 300305,
+                        "item_name": "Bag of Chips",
+                        "item_price": "150 ⏣",
+                        "item_emoji": "🍟"
+                    }
+                ]
+            }
+        ], 
+        "crime_items": [
+            {
+                "category_id": 400100,
+                "category_name": "Electronics",
+                "items": [
+                    {
+                        "item_ID": 400101,
+                        "item_name": "Smartphone",
+                        "item_price": "50,000 ⏣",
+                        "item_emoji": "📱"
+                    },
+                    {
+                        "item_ID": 400102,
+                        "item_name": "Laptop",
+                        "item_price": "80,000 ⏣",
+                        "item_emoji": "💻"
+                    },
+                    {
+                        "item_ID": 400103,
+                        "item_name": "Headphones",
+                        "item_price": "15,000 ⏣",
+                        "item_emoji": "🎧"
+                    },
+                    {
+                        "item_ID": 400104,
+                        "item_name": "Smartwatch",
+                        "item_price": "25,000 ⏣",
+                        "item_emoji": "⌚"
+                    },
+                    {
+                        "item_ID": 400105,
+                        "item_name": "Camera",
+                        "item_price": "40,000 ⏣",
+                        "item_emoji": "📷"
+                    },
+                    {
+                        "item_ID": 400106,
+                        "item_name": "Tablet",
+                        "item_price": "35,000 ⏣",
+                        "item_emoji": "📲"
+                    },
+                    {
+                        "item_ID": 400107,
+                        "item_name": "Game Console",
+                        "item_price": "60,000 ⏣",
+                        "item_emoji": "🎮"
+                    },
+                    {
+                        "item_ID": 400108,
+                        "item_name": "Drone",
+                        "item_price": "90,000 ⏣",
+                        "item_emoji": "🚁"
+                    }
+                ]
+            },
+            {
+                "category_id": 400200,
+                "category_name": "Jewelry",
+                "items": [
+                    {
+                        "item_ID": 400201,
+                        "item_name": "Gold Necklace",
+                        "item_price": "120,000 ⏣",
+                        "item_emoji": "📿"
+                    },
+                    {
+                        "item_ID": 400202,
+                        "item_name": "Diamond Ring",
+                        "item_price": "250,000 ⏣",
+                        "item_emoji": "💍"
+                    },
+                    {
+                        "item_ID": 400203,
+                        "item_name": "Emerald Bracelet",
+                        "item_price": "80,000 ⏣",
+                        "item_emoji": "💎"
+                    },
+                    {
+                        "item_ID": 400204,
+                        "item_name": "Platinum Watch",
+                        "item_price": "150,000 ⏣",
+                        "item_emoji": "⌚"
+                    }
+                ]
+            },
+            {
+                "category_id": 400300,
+                "category_name": "Art",
+                "items": [
+                    {
+                        "item_ID": 400301,
+                        "item_name": "Painting",
+                        "item_price": "200,000 ⏣",
+                        "item_emoji": "🖼️"
+                    },
+                    {
+                        "item_ID": 400302,
+                        "item_name": "Sculpture",
+                        "item_price": "300,000 ⏣",
+                        "item_emoji": "🗿"
+                    },
+                    {
+                        "item_ID": 400303,
+                        "item_name": "Antique Vase",
+                        "item_price": "75,000 ⏣",
+                        "item_emoji": "🏺"
+                    },
+                    {
+                        "item_ID": 400304,
+                        "item_name": "Rare Coins",
+                        "item_price": "50,000 ⏣",
+                        "item_emoji": "🪙"
+                    }
+                ]
+            },
+            {
+                "category_id": 400400,
+                "category_name": "Luxury Goods",
+                "items": [
+                    {
+                        "item_ID": 400401,
+                        "item_name": "Designer Handbag",
+                        "item_price": "150,000 ⏣",
+                        "item_emoji": "👜"
+                    },
+                    {
+                        "item_ID": 400402,
+                        "item_name": "High-End Watch",
+                        "item_price": "200,000 ⏣",
+                        "item_emoji": "⌚"
+                    },
+                    {
+                        "item_ID": 400403,
+                        "item_name": "Luxury Car",
+                        "item_price": "1,000,000 ⏣",
+                        "item_emoji": "🚗"
+                    },
+                    {
+                        "item_ID": 400404,
+                        "item_name": "Private Jet",
+                        "item_price": "5,000,000 ⏣",
+                        "item_emoji": "✈️"
+                    }
+                ]
+            }
+        ],
+            "halloween_2024": [
+                {
+                    "category_id": 2024501,
+                    "category_name": "2024 Halloween",
+                    "items": [
+                        {
+                            "item_ID": 202450101,
+                            "item_name": "Vampire Cape",
+                            "item_price": "20,000,000 ⏣",
+                            "item_emoji": "🧛‍♂️"
+                        },
+                        {
+                            "item_ID": 202450102,
+                            "item_name": "Witch’s Hat",
+                            "item_price": "15,000,000 ⏣",
+                            "item_emoji": "🎩"
+                        },
+                        {
+                            "item_ID": 202450102,
+                            "item_name": "Mummy Wrap",
+                            "item_price": "25,000,000 ⏣",
+                            "item_emoji": "🧻"
+                        },
+                        {
+                            "item_ID": 202450102,
+                            "item_name": "Broomstick 5000",
+                            "item_price": "55,555,550 ⏣",
+                            "item_emoji": "🧹"
+                        }
+                    ]
+                }
+            ]}

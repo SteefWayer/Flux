@@ -1,0 +1,136 @@
+{
+    "embed": {
+        "title": "📜 Embed Command Help",
+        "description": "This command allows you to create and manage embeds in your messages.",
+        "fields": [
+            { "name": "!embed create", "value": "Creates a new embed.\nFormat: `!embed <title>/<description>/<color>/<footer>/<field_name|field_value|inline/stack>/...`" },
+            { "name": "Examoke", "value": "`!embed Rules/Here are the rules:/red/Rules/Rule 1: Respect|Always respect|stack/Rule 2: Common sense|Always use common sense|stack`" },
+            { "name": "!embed edit", "value": "Edits an existing embed." },
+            { "name": "!embed delete", "value": "Deletes an embed." }
+        ],
+        "color": "#FF5733"
+    },
+    "logging": {
+        "title": "📜 Logging Command Help",
+        "description": "Manage logging settings and view logs.",
+        "fields": [
+            { "name": "!logging enable", "value": "Enables logging." },
+            { "name": "!logging disable", "value": "Disables logging." },
+            { "name": "Usage", "value": "You can run `!logging #channel` to enable logging in a certain channel." }
+        ],
+        "color": "#33FF57"
+    },
+    "mute": {
+        "title": "📜 Mute Command Help",
+        "description": "Mute or unmute users in the server.",
+        "fields": [
+            { "name": "!mute <user> [duration]", "value": "Mutes the specified user.\nProvide a user to mute and optionally a duration (e.g., 10m for 10 minutes, 2h for 2 hours). Default is 1 hour." },
+            { "name": "!unmute <user>", "value": "Unmutes the specified user." }
+        ],
+        "color": "#5733FF"
+    },
+    "trigger": {
+        "title": "📜 Trigger Command Help",
+        "description": "Add or remove a trigger.",
+        "fields": [
+            { "name": "!trigger add <trigger>/<response>", "value": "When providing `hello` as the trigger, and `Hello there!` as response, the bot will reply with `Hello there!` everytime a message contains `hello`." },
+            { "name": "!trigger remove <trigger>", "value": "Remove a trigger. Requires the specific trigger. No typos." },
+            { "name": "!triggers", "value": "View the full list of all triggers." }
+        ],
+        "color": "#5733FF"
+    },
+    "leaderboard": {
+        "title": "🏆 Leaderboard Command Help",
+        "description": "View the leaderboard showing message counts.",
+        "fields": [
+            { 
+                "name": "!leaderboard <args>", 
+                "value": "Displays the leaderboard for the specified type. Available types are: `balance`, `xp`, `commands`, `messages`."
+            }
+        ],
+        "color": "#FFD700"
+    },
+    "lb": {
+        "title": "🏆 Leaderboard Command Help",
+        "description": "View the leaderboard showing message counts.",
+        "fields": [
+            { 
+                "name": "!leaderboard <args>", 
+                "value": "Displays the leaderboard for the specified type. Available types are: `balance`, `xp`, `commands`, `messages`."
+            }
+        ],
+        "color": "#FFD700"
+    },
+    "sticky": {
+        "title": "📜 Sticky Command Help",
+        "description": "Add or remove a sticky message.",
+        "fields": [
+            { "name": "!sticky <message>", "value": "Stick a message to the channel. The stickied message will always appear as the latest message." },
+            { "name": "!removesticky", "value": "Remove all sticky messages from the channel." }
+        ],
+        "color": "#5733FF"
+    },
+    "bounce": {
+        "title": "📜 Bounce Command Help",
+        "description": "Bounce an image around the screen.",
+        "fields": [
+            { "name": "!bounce", "value": "Bounce an image around the screen like a DVD player." },
+            { "name": "Accepted files", "value": "Currently only JPGs and PNGs are supported for the command." }
+        ],
+        "color": "#5733FF"
+    },
+    "enhance": {
+        "title": "📜 Enhance Command Help",
+        "description": "Enhance an image.",
+        "fields": [
+            { "name": "!enhance", "value": "Enhance an image using AI. Rate limited. Check the [official Discord](<https://discord.gg/c26ZCC3TKu>)." },
+            { "name": "Accepted files", "value": "Currently only JPGs and PNGs are supported for the command." }
+        ],
+        "color": "#5733FF"
+    },
+    "xp": {
+        "title": "📈 Level Command Help",
+        "description": "Server leveling and role rewards.",
+        "fields": [
+            { "name": "`!rank`", "value": "View your or someone elses rank/level. Usage: `!rank [userID/mention]`." },
+            { "name": "Setting Levels", "value": "Server moderators can set the level of someone, and also give role rewards.." },
+            { "name": "`!setxp`", "value": "Set an amount of xp someone should have. Usage: `!setxp <user> <amount>`." },
+            { "name": "`!setlevel`", "value": "Set an amount of level someone should have. Usage: `!setlevel <user> <amount>`." },
+            { "name": "Set level and XP", "value": "The set level/xp are 2 different things. The XP is the amount of XP you need before reaching a level. For example, 300 XP gets you to level 2." },
+            { "name": "`!resetlevels`", "value": "Reset all levels from everyone in the server." },
+            { "name": "`!rankrole`", "value": "Set a role reward for reaching a level. Usage: `!rankrole <level> <role(ID)>`" },
+            { "name": "`!rankroles`", "value": "View all rank role rewards." }
+        ],
+        "color": "#5733FF"
+    },
+    "level": {
+        "title": "📈 Level Command Help",
+        "description": "Server leveling and role rewards.",
+        "fields": [
+            { "name": "`!rank`", "value": "View your or someone elses rank/level. Usage: `!rank [userID/mention]`." },
+            { "name": "Setting Levels", "value": "Server moderators can set the level of someone, and also give role rewards.." },
+            { "name": "`!setxp`", "value": "Set an amount of xp someone should have. Usage: `!setxp <user> <amount>`." },
+            { "name": "`!setlevel`", "value": "Set an amount of level someone should have. Usage: `!setlevel <user> <amount>`." },
+            { "name": "Set level and XP", "value": "The set level/xp are 2 different things. The XP is the amount of XP you need before reaching a level. For example, 300 XP gets you to level 2." },
+            { "name": "`!resetlevels`", "value": "Reset all levels from everyone in the server." },
+            { "name": "`!rankrole`", "value": "Set a role reward for reaching a level. Usage: `!rankrole <level> <role(ID)>`" },
+            { "name": "`!rankroles`", "value": "View all rank role rewards." }
+        ],
+        "color": "#5733FF"
+    },
+    "rank": {
+        "title": "📈 Level Command Help",
+        "description": "Server leveling and role rewards.",
+        "fields": [
+            { "name": "`!rank`", "value": "View your or someone elses rank/level. Usage: `!rank [userID/mention]`." },
+            { "name": "Setting Levels", "value": "Server moderators can set the level of someone, and also give role rewards.." },
+            { "name": "`!setxp`", "value": "Set an amount of xp someone should have. Usage: `!setxp <user> <amount>`." },
+            { "name": "`!setlevel`", "value": "Set an amount of level someone should have. Usage: `!setlevel <user> <amount>`." },
+            { "name": "Set level and XP", "value": "The set level/xp are 2 different things. The XP is the amount of XP you need before reaching a level. For example, 300 XP gets you to level 2." },
+            { "name": "`!resetlevels`", "value": "Reset all levels from everyone in the server." },
+            { "name": "`!rankrole`", "value": "Set a role reward for reaching a level. Usage: `!rankrole <level> <role(ID)>`" },
+            { "name": "`!rankroles`", "value": "View all rank role rewards." }
+        ],
+        "color": "#5733FF"
+    }
+}

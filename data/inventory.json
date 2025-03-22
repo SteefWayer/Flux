@@ -1,0 +1,120 @@
+{
+  "1271600306383355979": [
+    {
+      "id": 100101,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Rifle",
+      "price": "50,000 ⏣"
+    },
+    {
+      "id": 400102,
+      "name": "Laptop",
+      "emoji": "💻",
+      "amount": 1,
+      "type": "crimeItemID",
+      "price": "80,000 ⏣"
+    },
+    {
+      "id": 202450102,
+      "name": "Mummy Wrap",
+      "emoji": "🧻",
+      "amount": 1,
+      "type": "halloweenItemID",
+      "price": "25,000,000 ⏣"
+    },
+    {
+      "id": 400302,
+      "name": "Sculpture",
+      "emoji": "🗿",
+      "amount": 1,
+      "type": "crimeItemID",
+      "price": "300,000 ⏣"
+    }
+  ],
+  "774565945821626368": [
+    {
+      "id": 100101,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Rifle",
+      "price": "50,000 ⏣"
+    },
+    {
+      "id": 300302,
+      "name": "Cup of Coffee",
+      "price": "150 ⏣",
+      "emoji": "☕",
+      "amount": 1,
+      "type": "begItemID"
+    },
+    {
+      "id": 400404,
+      "name": "Private Jet",
+      "emoji": "✈️",
+      "amount": 1,
+      "type": "crimeItemID",
+      "price": "5,000,000 ⏣"
+    }
+  ],
+  "1188213454805414002": [
+    {
+      "id": 100101,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Rifle",
+      "price": "50,000 ⏣"
+    }
+  ],
+  "838724616091861063": [
+    {
+      "id": 400201,
+      "name": "Gold Necklace",
+      "emoji": "📿",
+      "amount": 1,
+      "type": "crimeItemID",
+      "price": "120,000 ⏣"
+    }
+  ],
+  "511592210781831209": [
+    {
+      "id": 100101,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Rifle",
+      "price": "50,000 ⏣"
+    },
+    {
+      "id": 100603,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Milling Machine",
+      "price": "90,000 ⏣"
+    },
+    {
+      "id": 100501,
+      "type": "toolID",
+      "amount": 1,
+      "name": "Drill",
+      "price": "40,000 ⏣"
+    },
+    {
+      "id": 200310,
+      "name": "Safety Features",
+      "emoji": "🚨",
+      "amount": 1,
+      "type": "itemID",
+      "price": "10,000 ⏣"
+    },
+    {
+      "id": 200106,
+      "name": "Welding Machine",
+      "emoji": "⚙️",
+      "amount": 1,
+      "type": "itemID",
+      "price": "60,000 ⏣"
+    }
+  ],
+  "720376429711196191": [],
+  "763481204414218251": []
+}

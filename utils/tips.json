@@ -1,0 +1,70 @@
+[
+    {
+        "id": "tip1",
+        "description": "Did you know, You can sell items with `sell <item> <amount>`"
+    },
+    {
+        "id": "tip2",
+        "description": "If you need help with commands, you can use the `help` command."
+    },
+    {
+        "id": "tip3",
+        "description": "Did you know, server owners can make server sided shops?"
+    },
+    {
+        "id": "tip4",
+        "description": "Penguins wear tuxedos so they always look fancy underwater."
+    },
+    {
+        "id": "tip5",
+        "description": "Did you know, you can view your rank in this server with `!rank`?"
+    },    {
+        "id": "tip6",
+        "description": "Did you know, You can use M's and K's instead of 0's."
+    },    {
+        "id": "tip7",
+        "description": "Did you know, The bot counts how many commands you send."
+    },    {
+        "id": "tip8",
+        "description": "Did you know, You can use `botinfo` to read info about the bot."
+    },    {
+        "id": "tip9",
+        "description": "Did you know, the `serverinfo` command shows all possible info about the server."
+    },    {
+        "id": "tip10",
+        "description": "Did you know, The owner knows nothing about coding and uses chatGPT."
+    },    {
+        "id": "tip11",
+        "description": "Did you know, The bot has a test- and bug report [server](<https://discord.gg/c26ZCC3TKu>)."
+    },    {
+        "id": "tip12",
+        "description": "Did you know, There are 21 tips."
+    },    {
+        "id": "tip13",
+        "description": "Did you know, You can quick buy with `buy <item>`."
+    },    {
+        "id": "tip14",
+        "description": "Did you know, You can view server shop with `sshop`."
+    },    {
+        "id": "tip15",
+        "description": "Did you know, Your pillowcase has more germs than a toilet seat. Guess who’s not keeping secrets!"
+    },    {
+        "id": "tip16",
+        "description": "Did you know, The bot has a few commands that can only be run by the owner in [this server](<https://discord.gg/Yn88yTnpub>)."
+    },    {
+        "id": "tip17",
+        "description": "The bot is still in major development. Thank you for using this!"
+    },    {
+        "id": "tip18",
+        "description": "Did you know, There are a few easter eggs in this bot."
+    },    {
+        "id": "tip19",
+        "description": "Did you know, There are multiple shortcuts for commands. Like `inventory` has `inv`."
+    },    {
+        "id": "tip20",
+        "description": "Did you know, This bot also offers moderation commands. Use the `help` command to view all commands."
+    },    {
+        "id": "tip21",
+        "description": "Did you know."
+    }
+]

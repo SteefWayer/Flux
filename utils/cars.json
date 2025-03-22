@@ -1,0 +1,799 @@
+{
+    "manufacturers": [
+        {
+            "carm_id": 110,
+            "carm_name": "Audi",
+            "cars": [
+                {
+                    "car_ID": 111,
+                    "car_name": "R8 V10 Plus",
+                    "car_emoji": "🏁",
+                    "car_0-100_kmh": "3.2s",
+                    "car_top_speed": "330 km/h",
+                    "car_price": "2,250,000 ⏣",
+                    "car_engine": "5.2L V10",
+                    "car_fuel_consumption_per_km": "0.18 L",
+                    "car_tank_capacity_liters": "82 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 112,
+                    "car_name": "RS7 Sportback",
+                    "car_emoji": "🚘",
+                    "car_0-100_kmh": "3.6s",
+                    "car_top_speed": "305 km/h",
+                    "car_price": "600,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.20 L",
+                    "car_tank_capacity_liters": "73 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 113,
+                    "car_name": "Q8 RS",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "3.8s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "450,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 114,
+                    "car_name": "A1 Sportback",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "6.0s",
+                    "car_top_speed": "230 km/h",
+                    "car_price": "90,000 ⏣",
+                    "car_engine": "2.0L Turbocharged",
+                    "car_fuel_consumption_per_km": "0.07 L",
+                    "car_tank_capacity_liters": "50 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 115,
+                    "car_name": "TT RS",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "3.7s",
+                    "car_top_speed": "280 km/h",
+                    "car_price": "300,000 ⏣",
+                    "car_engine": "2.5L Turbocharged Inline-5",
+                    "car_fuel_consumption_per_km": "0.15 L",
+                    "car_tank_capacity_liters": "55 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 120,
+            "carm_name": "BMW",
+            "cars": [
+                {
+                    "car_ID": 121,
+                    "car_name": "M8 Competition",
+                    "car_emoji": "🚘",
+                    "car_0-100_kmh": "3.0s",
+                    "car_top_speed": "305 km/h",
+                    "car_price": "2,100,000 ⏣",
+                    "car_engine": "4.4L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.17 L",
+                    "car_tank_capacity_liters": "68 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 122,
+                    "car_name": "i8 Roadster",
+                    "car_emoji": "🔋",
+                    "car_0-100_kmh": "4.4s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "450,000 ⏣",
+                    "car_engine": "1.5L Turbocharged Inline-3 + Electric Motors",
+                    "car_fuel_consumption_per_km": "0.12 L",
+                    "car_tank_capacity_liters": "42 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 123,
+                    "car_name": "X5 M",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "3.9s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "360,000 ⏣",
+                    "car_engine": "4.4L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 124,
+                    "car_name": "3 Series M340i",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "4.4s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "210,000 ⏣",
+                    "car_engine": "3.0L Turbocharged Inline-6",
+                    "car_fuel_consumption_per_km": "0.14 L",
+                    "car_tank_capacity_liters": "59 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 125,
+                    "car_name": "7 Series",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "4.5s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "270,000 ⏣",
+                    "car_engine": "4.4L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.20 L",
+                    "car_tank_capacity_liters": "80 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 130,
+            "carm_name": "Bugatti",
+            "cars": [
+                {
+                    "car_ID": 131,
+                    "car_name": "Chiron",
+                    "car_emoji": "🚀",
+                    "car_0-100_kmh": "2.4s",
+                    "car_top_speed": "420 km/h",
+                    "car_price": "9,000,000 ⏣",
+                    "car_engine": "8.0L Quad-Turbo W16",
+                    "car_fuel_consumption_per_km": "0.25 L",
+                    "car_tank_capacity_liters": "100 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 132,
+                    "car_name": "Divo",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "2.5s",
+                    "car_top_speed": "380 km/h",
+                    "car_price": "15,000,000 ⏣",
+                    "car_engine": "8.0L Quad-Turbo W16",
+                    "car_fuel_consumption_per_km": "0.28 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 133,
+                    "car_name": "Bolide",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "2.2s",
+                    "car_top_speed": "500 km/h",
+                    "car_price": "13,500,000 ⏣",
+                    "car_engine": "8.0L Quad-Turbo W16",
+                    "car_fuel_consumption_per_km": "0.30 L",
+                    "car_tank_capacity_liters": "110 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 134,
+                    "car_name": "Veyron Super Sport",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "2.5s",
+                    "car_top_speed": "415 km/h",
+                    "car_price": "7,500,000 ⏣",
+                    "car_engine": "8.0L Quad-Turbo W16",
+                    "car_fuel_consumption_per_km": "0.27 L",
+                    "car_tank_capacity_liters": "100 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 135,
+                    "car_name": "Centodieci",
+                    "car_emoji": "🚀",
+                    "car_0-100_kmh": "2.6s",
+                    "car_top_speed": "380 km/h",
+                    "car_price": "24,000,000 ⏣",
+                    "car_engine": "8.0L Quad-Turbo W16",
+                    "car_fuel_consumption_per_km": "0.26 L",
+                    "car_tank_capacity_liters": "90 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 140,
+            "carm_name": "Ferrari",
+            "cars": [
+                {
+                    "car_ID": 141,
+                    "car_name": "LaFerrari",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "2.6s",
+                    "car_top_speed": "352 km/h",
+                    "car_price": "9,000,000 ⏣",
+                    "car_engine": "6.3L V12 + Electric Motors",
+                    "car_fuel_consumption_per_km": "0.18 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 142,
+                    "car_name": "SF90 Stradale",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "2.5s",
+                    "car_top_speed": "340 km/h",
+                    "car_price": "6,000,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8 + Electric Motors",
+                    "car_fuel_consumption_per_km": "0.15 L",
+                    "car_tank_capacity_liters": "70 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 143,
+                    "car_name": "488 Pista",
+                    "car_emoji": "🏁",
+                    "car_0-100_kmh": "2.9s",
+                    "car_top_speed": "340 km/h",
+                    "car_price": "4,500,000 ⏣",
+                    "car_engine": "3.9L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.17 L",
+                    "car_tank_capacity_liters": "78 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 144,
+                    "car_name": "Roma",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "3.4s",
+                    "car_top_speed": "320 km/h",
+                    "car_price": "3,000,000 ⏣",
+                    "car_engine": "3.9L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.16 L",
+                    "car_tank_capacity_liters": "80 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 145,
+                    "car_name": "F8 Tributo",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "2.9s",
+                    "car_top_speed": "340 km/h",
+                    "car_price": "4,000,000 ⏣",
+                    "car_engine": "3.9L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.16 L",
+                    "car_tank_capacity_liters": "78 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 150,
+            "carm_name": "Porsche",
+            "cars": [
+                {
+                    "car_ID": 151,
+                    "car_name": "911 Turbo S",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "2.7s",
+                    "car_top_speed": "330 km/h",
+                    "car_price": "250,000 ⏣",
+                    "car_engine": "3.8L Twin-Turbo Flat-6",
+                    "car_fuel_consumption_per_km": "0.15 L",
+                    "car_tank_capacity_liters": "64 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 152,
+                    "car_name": "918 Spyder",
+                    "car_emoji": "🔋",
+                    "car_0-100_kmh": "2.6s",
+                    "car_top_speed": "340 km/h",
+                    "car_price": "1,200,000 ⏣",
+                    "car_engine": "4.6L V8 + Electric Motors",
+                    "car_fuel_consumption_per_km": "0.12 L",
+                    "car_tank_capacity_liters": "70 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 153,
+                    "car_name": "Taycan Turbo S",
+                    "car_emoji": "🔋",
+                    "car_0-100_kmh": "2.8s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "200,000 ⏣",
+                    "car_engine": "Electric Motors",
+                    "car_fuel_consumption_per_km": "0.00 L",
+                    "car_tank_capacity_liters": "93.4 kWh",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 154,
+                    "car_name": "Panamera Turbo",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "3.6s",
+                    "car_top_speed": "306 km/h",
+                    "car_price": "150,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.20 L",
+                    "car_tank_capacity_liters": "75 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 155,
+                    "car_name": "Cayenne Turbo",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "3.9s",
+                    "car_top_speed": "286 km/h",
+                    "car_price": "160,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "75 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 160,
+            "carm_name": "Mercedes-Benz",
+            "cars": [
+                {
+                    "car_ID": 161,
+                    "car_name": "SLS AMG",
+                    "car_emoji": "🚘",
+                    "car_0-100_kmh": "3.8s",
+                    "car_top_speed": "315 km/h",
+                    "car_price": "500,000 ⏣",
+                    "car_engine": "6.2L V8",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "65 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 162,
+                    "car_name": "AMG GT R",
+                    "car_emoji": "🏁",
+                    "car_0-100_kmh": "3.6s",
+                    "car_top_speed": "318 km/h",
+                    "car_price": "250,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.20 L",
+                    "car_tank_capacity_liters": "64 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 163,
+                    "car_name": "EQS 580 4MATIC",
+                    "car_emoji": "🔋",
+                    "car_0-100_kmh": "4.1s",
+                    "car_top_speed": "210 km/h",
+                    "car_price": "120,000 ⏣",
+                    "car_engine": "Electric Motors",
+                    "car_fuel_consumption_per_km": "0.00 L",
+                    "car_tank_capacity_liters": "108 kWh",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 164,
+                    "car_name": "C-Class Coupe",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "4.9s",
+                    "car_top_speed": "250 km/h",
+                    "car_price": "75,000 ⏣",
+                    "car_engine": "3.0L Turbocharged Inline-6",
+                    "car_fuel_consumption_per_km": "0.13 L",
+                    "car_tank_capacity_liters": "66 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 165,
+                    "car_name": "GLS 63 AMG",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "4.1s",
+                    "car_top_speed": "280 km/h",
+                    "car_price": "130,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.23 L",
+                    "car_tank_capacity_liters": "90 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+        {
+            "carm_id": 170,
+            "carm_name": "Lamborghini",
+            "cars": [
+                {
+                    "car_ID": 171,
+                    "car_name": "Huracán Performante",
+                    "car_emoji": "🏎️",
+                    "car_0-100_kmh": "2.9s",
+                    "car_top_speed": "340 km/h",
+                    "car_price": "1,800,000 ⏣",
+                    "car_engine": "5.2L V10",
+                    "car_fuel_consumption_per_km": "0.19 L",
+                    "car_tank_capacity_liters": "80 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 172,
+                    "car_name": "Aventador SVJ",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "2.8s",
+                    "car_top_speed": "350 km/h",
+                    "car_price": "2,500,000 ⏣",
+                    "car_engine": "6.5L V12",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 173,
+                    "car_name": "Sián FKP 37",
+                    "car_emoji": "🚀",
+                    "car_0-100_kmh": "2.8s",
+                    "car_top_speed": "350 km/h",
+                    "car_price": "3,500,000 ⏣",
+                    "car_engine": "6.5L V12 + Electric Motors",
+                    "car_fuel_consumption_per_km": "0.20 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 174,
+                    "car_name": "Urus",
+                    "car_emoji": "🚙",
+                    "car_0-100_kmh": "3.6s",
+                    "car_top_speed": "305 km/h",
+                    "car_price": "300,000 ⏣",
+                    "car_engine": "4.0L Twin-Turbo V8",
+                    "car_fuel_consumption_per_km": "0.22 L",
+                    "car_tank_capacity_liters": "85 L",
+                    "car_distance_driven_km": "0 km"
+                },
+                {
+                    "car_ID": 175,
+                    "car_name": "Gallardo Spyder",
+                    "car_emoji": "🚗",
+                    "car_0-100_kmh": "4.0s",
+                    "car_top_speed": "320 km/h",
+                    "car_price": "1,000,000 ⏣",
+                    "car_engine": "5.2L V10",
+                    "car_fuel_consumption_per_km": "0.21 L",
+                    "car_tank_capacity_liters": "80 L",
+                    "car_distance_driven_km": "0 km"
+                }
+            ]
+        },
+                {
+                "carm_id": 180,
+                "carm_name": "Toyota",
+                "cars": [
+                    {
+                        "car_ID": 181,
+                        "car_name": "Supra",
+                        "car_emoji": "🏎️",
+                        "car_0-100_kmh": "4.1s",
+                        "car_top_speed": "250 km/h",
+                        "car_price": "60,000 ⏣",
+                        "car_engine": "3.0L Turbo Inline-6",
+                        "car_fuel_consumption_per_km": "0.12 L",
+                        "car_tank_capacity_liters": "52 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 182,
+                        "car_name": "Camry",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "6.9s",
+                        "car_top_speed": "210 km/h",
+                        "car_price": "30,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.08 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 183,
+                        "car_name": "Land Cruiser",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "8.0s",
+                        "car_top_speed": "200 km/h",
+                        "car_price": "90,000 ⏣",
+                        "car_engine": "5.7L V8",
+                        "car_fuel_consumption_per_km": "0.20 L",
+                        "car_tank_capacity_liters": "93 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 184,
+                        "car_name": "GR86",
+                        "car_emoji": "🏁",
+                        "car_0-100_kmh": "6.3s",
+                        "car_top_speed": "230 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "2.4L Inline-4",
+                        "car_fuel_consumption_per_km": "0.09 L",
+                        "car_tank_capacity_liters": "50 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 185,
+                        "car_name": "Prius",
+                        "car_emoji": "🔋",
+                        "car_0-100_kmh": "10.0s",
+                        "car_top_speed": "180 km/h",
+                        "car_price": "28,000 ⏣",
+                        "car_engine": "1.8L Inline-4 + Electric Motors",
+                        "car_fuel_consumption_per_km": "0.05 L",
+                        "car_tank_capacity_liters": "43 L",
+                        "car_distance_driven_km": "0 km"
+                    }
+                ]
+            },
+            {
+                "carm_id": 190,
+                "carm_name": "Honda",
+                "cars": [
+                    {
+                        "car_ID": 191,
+                        "car_name": "NSX",
+                        "car_emoji": "🏎️",
+                        "car_0-100_kmh": "3.0s",
+                        "car_top_speed": "307 km/h",
+                        "car_price": "160,000 ⏣",
+                        "car_engine": "3.5L Twin-Turbo V6 + Electric Motors",
+                        "car_fuel_consumption_per_km": "0.12 L",
+                        "car_tank_capacity_liters": "65 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 192,
+                        "car_name": "Civic Type R",
+                        "car_emoji": "🏁",
+                        "car_0-100_kmh": "5.4s",
+                        "car_top_speed": "272 km/h",
+                        "car_price": "50,000 ⏣",
+                        "car_engine": "2.0L Turbo Inline-4",
+                        "car_fuel_consumption_per_km": "0.10 L",
+                        "car_tank_capacity_liters": "47 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 193,
+                        "car_name": "Accord",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "6.6s",
+                        "car_top_speed": "210 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "2.0L Inline-4",
+                        "car_fuel_consumption_per_km": "0.08 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 194,
+                        "car_name": "Pilot",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "7.0s",
+                        "car_top_speed": "200 km/h",
+                        "car_price": "45,000 ⏣",
+                        "car_engine": "3.5L V6",
+                        "car_fuel_consumption_per_km": "0.11 L",
+                        "car_tank_capacity_liters": "70 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 195,
+                        "car_name": "Clarity",
+                        "car_emoji": "🔋",
+                        "car_0-100_kmh": "6.0s",
+                        "car_top_speed": "180 km/h",
+                        "car_price": "40,000 ⏣",
+                        "car_engine": "Electric Motors",
+                        "car_fuel_consumption_per_km": "0.00 L",
+                        "car_tank_capacity_liters": "25.5 kWh",
+                        "car_distance_driven_km": "0 km"
+                    }
+                ]
+            },
+            {
+                "carm_id": 200,
+                "carm_name": "Nissan",
+                "cars": [
+                    {
+                        "car_ID": 201,
+                        "car_name": "GT-R",
+                        "car_emoji": "🏎️",
+                        "car_0-100_kmh": "2.9s",
+                        "car_top_speed": "315 km/h",
+                        "car_price": "100,000 ⏣",
+                        "car_engine": "3.8L Twin-Turbo V6",
+                        "car_fuel_consumption_per_km": "0.15 L",
+                        "car_tank_capacity_liters": "72 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 202,
+                        "car_name": "370Z",
+                        "car_emoji": "🏁",
+                        "car_0-100_kmh": "5.2s",
+                        "car_top_speed": "250 km/h",
+                        "car_price": "40,000 ⏣",
+                        "car_engine": "3.7L V6",
+                        "car_fuel_consumption_per_km": "0.13 L",
+                        "car_tank_capacity_liters": "65 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 203,
+                        "car_name": "Altima",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "6.8s",
+                        "car_top_speed": "220 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.09 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 204,
+                        "car_name": "Rogue",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "8.0s",
+                        "car_top_speed": "200 km/h",
+                        "car_price": "38,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.10 L",
+                        "car_tank_capacity_liters": "55 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 205,
+                        "car_name": "Leaf",
+                        "car_emoji": "🔋",
+                        "car_0-100_kmh": "7.9s",
+                        "car_top_speed": "150 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "Electric Motors",
+                        "car_fuel_consumption_per_km": "0.00 L",
+                        "car_tank_capacity_liters": "40 kWh",
+                        "car_distance_driven_km": "0 km"
+                    }
+                ]
+            },
+            {
+                "carm_id": 210,
+                "carm_name": "Mazda",
+                "cars": [
+                    {
+                        "car_ID": 211,
+                        "car_name": "MX-5 Miata",
+                        "car_emoji": "🏁",
+                        "car_0-100_kmh": "6.5s",
+                        "car_top_speed": "220 km/h",
+                        "car_price": "30,000 ⏣",
+                        "car_engine": "2.0L Inline-4",
+                        "car_fuel_consumption_per_km": "0.08 L",
+                        "car_tank_capacity_liters": "45 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 212,
+                        "car_name": "Mazda3",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "7.0s",
+                        "car_top_speed": "210 km/h",
+                        "car_price": "25,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.08 L",
+                        "car_tank_capacity_liters": "51 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 213,
+                        "car_name": "CX-5",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "8.0s",
+                        "car_top_speed": "200 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.10 L",
+                        "car_tank_capacity_liters": "58 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 214,
+                        "car_name": "Mazda6",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "6.7s",
+                        "car_top_speed": "220 km/h",
+                        "car_price": "32,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.09 L",
+                        "car_tank_capacity_liters": "62 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 215,
+                        "car_name": "MX-30",
+                        "car_emoji": "🔋",
+                        "car_0-100_kmh": "9.0s",
+                        "car_top_speed": "160 km/h",
+                        "car_price": "33,000 ⏣",
+                        "car_engine": "Electric Motors",
+                        "car_fuel_consumption_per_km": "0.00 L",
+                        "car_tank_capacity_liters": "35.5 kWh",
+                        "car_distance_driven_km": "0 km"
+                    }
+                ]
+            },
+            {
+                "carm_id": 220,
+                "carm_name": "Subaru",
+                "cars": [
+                    {
+                        "car_ID": 221,
+                        "car_name": "WRX STI",
+                        "car_emoji": "🏁",
+                        "car_0-100_kmh": "4.8s",
+                        "car_top_speed": "250 km/h",
+                        "car_price": "45,000 ⏣",
+                        "car_engine": "2.5L Turbo Inline-4",
+                        "car_fuel_consumption_per_km": "0.13 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 222,
+                        "car_name": "Outback",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "8.5s",
+                        "car_top_speed": "200 km/h",
+                        "car_price": "35,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.10 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 223,
+                        "car_name": "Forester",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "8.0s",
+                        "car_top_speed": "210 km/h",
+                        "car_price": "33,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.11 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 224,
+                        "car_name": "Legacy",
+                        "car_emoji": "🚗",
+                        "car_0-100_kmh": "7.5s",
+                        "car_top_speed": "220 km/h",
+                        "car_price": "30,000 ⏣",
+                        "car_engine": "2.5L Inline-4",
+                        "car_fuel_consumption_per_km": "0.09 L",
+                        "car_tank_capacity_liters": "60 L",
+                        "car_distance_driven_km": "0 km"
+                    },
+                    {
+                        "car_ID": 225,
+                        "car_name": "Crosstrek",
+                        "car_emoji": "🚙",
+                        "car_0-100_kmh": "9.0s",
+                        "car_top_speed": "190 km/h",
+                        "car_price": "28,000 ⏣",
+                        "car_engine": "2.0L Inline-4",
+                        "car_fuel_consumption_per_km": "0.09 L",
+                        "car_tank_capacity_liters": "50 L",
+                        "car_distance_driven_km": "0 km"
+                    }
+            ]
+        }
+    ]
+}
+        
+    
+

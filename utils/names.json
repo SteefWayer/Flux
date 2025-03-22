@@ -1,0 +1,502 @@
+{
+  "carNames": [
+    [
+      "r8 v10 plus",
+      111
+    ],
+    [
+      "rs7 sportback",
+      112
+    ],
+    [
+      "q8 rs",
+      113
+    ],
+    [
+      "a1 sportback",
+      114
+    ],
+    [
+      "tt rs",
+      115
+    ],
+    [
+      "m8 competition",
+      121
+    ],
+    [
+      "i8 roadster",
+      122
+    ],
+    [
+      "x5 m",
+      123
+    ],
+    [
+      "3 series m340i",
+      124
+    ],
+    [
+      "7 series",
+      125
+    ],
+    [
+      "chiron",
+      131
+    ],
+    [
+      "divo",
+      132
+    ],
+    [
+      "bolide",
+      133
+    ],
+    [
+      "veyron super sport",
+      134
+    ],
+    [
+      "centodieci",
+      135
+    ],
+    [
+      "laferrari",
+      141
+    ],
+    [
+      "sf90 stradale",
+      142
+    ],
+    [
+      "488 pista",
+      143
+    ],
+    [
+      "roma",
+      144
+    ],
+    [
+      "f8 tributo",
+      145
+    ],
+    [
+      "911 turbo s",
+      151
+    ],
+    [
+      "918 spyder",
+      152
+    ],
+    [
+      "taycan turbo s",
+      153
+    ],
+    [
+      "panamera turbo",
+      154
+    ],
+    [
+      "cayenne turbo",
+      155
+    ],
+    [
+      "sls amg",
+      161
+    ],
+    [
+      "amg gt r",
+      162
+    ],
+    [
+      "eqs 580 4matic",
+      163
+    ],
+    [
+      "c-class coupe",
+      164
+    ],
+    [
+      "gls 63 amg",
+      165
+    ],
+    [
+      "huracán performante",
+      171
+    ],
+    [
+      "aventador svj",
+      172
+    ],
+    [
+      "sián fkp 37",
+      173
+    ],
+    [
+      "urus",
+      174
+    ],
+    [
+      "gallardo spyder",
+      175
+    ],
+    [
+      "supra",
+      181
+    ],
+    [
+      "camry",
+      182
+    ],
+    [
+      "land cruiser",
+      183
+    ],
+    [
+      "gr86",
+      184
+    ],
+    [
+      "prius",
+      185
+    ],
+    [
+      "nsx",
+      191
+    ],
+    [
+      "civic type r",
+      192
+    ],
+    [
+      "accord",
+      193
+    ],
+    [
+      "pilot",
+      194
+    ],
+    [
+      "clarity",
+      195
+    ],
+    [
+      "gt-r",
+      201
+    ],
+    [
+      "370z",
+      202
+    ],
+    [
+      "altima",
+      203
+    ],
+    [
+      "rogue",
+      204
+    ],
+    [
+      "leaf",
+      205
+    ],
+    [
+      "mx-5 miata",
+      211
+    ],
+    [
+      "mazda3",
+      212
+    ],
+    [
+      "cx-5",
+      213
+    ],
+    [
+      "mazda6",
+      214
+    ],
+    [
+      "mx-30",
+      215
+    ],
+    [
+      "wrx sti",
+      221
+    ],
+    [
+      "outback",
+      222
+    ],
+    [
+      "forester",
+      223
+    ],
+    [
+      "legacy",
+      224
+    ],
+    [
+      "crosstrek",
+      225
+    ]
+  ],
+  "toolNames": [
+    [
+      "rifle",
+      100101
+    ],
+    [
+      "hammer",
+      100201
+    ],
+    [
+      "screwdriver",
+      100202
+    ],
+    [
+      "wrench",
+      100203
+    ],
+    [
+      "pliers",
+      100204
+    ],
+    [
+      "first aid kit",
+      100401
+    ],
+    [
+      "stethoscope",
+      100402
+    ],
+    [
+      "thermometer",
+      100403
+    ],
+    [
+      "medical mask",
+      100404
+    ],
+    [
+      "drill",
+      100501
+    ],
+    [
+      "excavator",
+      100502
+    ],
+    [
+      "bulldozer",
+      100503
+    ],
+    [
+      "cement truck",
+      100506
+    ],
+    [
+      "forklift",
+      100507
+    ],
+    [
+      "cnc machine",
+      100601
+    ],
+    [
+      "lathe",
+      100602
+    ],
+    [
+      "milling machine",
+      100603
+    ],
+    [
+      "hydraulic lift",
+      100604
+    ],
+    [
+      "3d printer",
+      100605
+    ],
+    [
+      "repair manuals",
+      100999
+    ]
+  ],
+  "itemNames": [
+    [
+      "tool chest",
+      200101
+    ],
+    [
+      "air compressor",
+      200102
+    ],
+    [
+      "power drills",
+      200103
+    ],
+    [
+      "workbench",
+      200104
+    ],
+    [
+      "comprehensive tool set",
+      200105
+    ],
+    [
+      "welding machine",
+      200106
+    ],
+    [
+      "safety gear",
+      200107
+    ],
+    [
+      "press machine",
+      200201
+    ],
+    [
+      "conveyor belt",
+      200202
+    ],
+    [
+      "drill press",
+      200203
+    ],
+    [
+      "laser cutter",
+      200204
+    ],
+    [
+      "bandsaw",
+      200205
+    ],
+    [
+      "welding station",
+      200206
+    ],
+    [
+      "store layout plan",
+      200301
+    ],
+    [
+      "display racks",
+      200302
+    ],
+    [
+      "signage",
+      200303
+    ],
+    [
+      "product shelves",
+      200304
+    ],
+    [
+      "checkout counters",
+      200305
+    ],
+    [
+      "store decorations",
+      200306
+    ],
+    [
+      "lighting",
+      200307
+    ],
+    [
+      "inventory storage solutions",
+      200308
+    ],
+    [
+      "window display items",
+      200309
+    ],
+    [
+      "safety features",
+      200310
+    ]
+  ],
+  "crimeItemNames": [
+    [
+      "smartphone",
+      400101
+    ],
+    [
+      "laptop",
+      400102
+    ],
+    [
+      "headphones",
+      400103
+    ],
+    [
+      "smartwatch",
+      400104
+    ],
+    [
+      "camera",
+      400105
+    ],
+    [
+      "tablet",
+      400106
+    ],
+    [
+      "game console",
+      400107
+    ],
+    [
+      "drone",
+      400108
+    ],
+    [
+      "gold necklace",
+      400201
+    ],
+    [
+      "diamond ring",
+      400202
+    ],
+    [
+      "emerald bracelet",
+      400203
+    ],
+    [
+      "platinum watch",
+      400204
+    ],
+    [
+      "painting",
+      400301
+    ],
+    [
+      "sculpture",
+      400302
+    ],
+    [
+      "antique vase",
+      400303
+    ],
+    [
+      "rare coins",
+      400304
+    ],
+    [
+      "designer handbag",
+      400401
+    ],
+    [
+      "high-end watch",
+      400402
+    ],
+    [
+      "luxury car",
+      400403
+    ],
+    [
+      "private jet",
+      400404
+    ]
+  ]
+}

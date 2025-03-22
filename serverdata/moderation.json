@@ -1,0 +1,54 @@
+{
+  "1272538741986168893": {
+    "warnings": {
+      "519201478964019200": [
+        {
+          "id": "5cc338d8-f7e7-4daa-a5f2-cf17bc2ca159",
+          "reason": "Asking for admin. My ego is hurt",
+          "timestamp": "2024-09-07T18:40:26.152Z",
+          "username": "zmqrcoo",
+          "moderator": {
+            "id": "1271600306383355979",
+            "username": "actualsteef"
+          }
+        }
+      ],
+      "1017500024688623736": [
+        {
+          "id": "86042826-8460-486d-b099-d7419c1f8297",
+          "reason": "not readying up, wasting time",
+          "timestamp": "2024-09-07T19:56:02.618Z",
+          "username": "gamingmaster8777",
+          "moderator": {
+            "id": "1271600306383355979",
+            "username": "actualsteef"
+          }
+        }
+      ],
+      "1016368527885750292": [
+        {
+          "id": "b85920f0-a3fb-498e-ac9b-818a68a07b75",
+          "reason": "Not joining heists, even after being invited multiple times and pinged.",
+          "timestamp": "2024-09-15T18:27:00.048Z",
+          "username": "sburbis",
+          "moderator": {
+            "id": "1271600306383355979",
+            "username": "actualsteef"
+          }
+        }
+      ],
+      "712694103858741309": [
+        {
+          "id": "569dd018-4fe6-41cf-86b4-e7db35a02132",
+          "reason": "cringe gif",
+          "timestamp": "2024-09-15T20:10:27.152Z",
+          "username": "69pipipopo69",
+          "moderator": {
+            "id": "1271600306383355979",
+            "username": "actualsteef"
+          }
+        }
+      ]
+    }
+  }
+}
